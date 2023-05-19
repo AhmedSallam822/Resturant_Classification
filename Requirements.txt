@@ -1,8 +1,4 @@
-joblib
-numpy
-pandas
-seaborn
-scikit-learn
-imbalanced-learn
-xgboost
-streamlit
+streamlit==1.22.0
+numpy==1.20.1
+joblib==1.2.0
+scikit-learn==1.2.2
